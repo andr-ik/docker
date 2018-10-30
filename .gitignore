@@ -1,0 +1,16 @@
+.idea
+.env
+.env.prod
+/var/
+/vendor/
+/node_modules/
+/public_html/assets/
+/public_html/bundles/
+/config/assets.yaml
+/profile.json
+.DS_Store
+composer.phar
+.bash_history
+.cache/
+public_html/.cache/
+.composer/
